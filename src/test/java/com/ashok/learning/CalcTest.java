@@ -14,6 +14,7 @@ public class CalcTest {
 	 assertEquals(5,c.divide(10, 2));
 	 assertThrows(ArithmeticException.class,()->c.divide(0, 9),"Exception not thrown");
 	 assertEquals(2,2);
+	 assertEquals(20,20);
 
 		
 		
